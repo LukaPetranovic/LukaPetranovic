@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luka_Petranovic
 - 👀 I’m interested in software and web developing
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C#, C++, DOTNet
 - 💞️ I’m looking to collaborate on some beginner based projects
 - 📫 How to reach me? luka.petranovic@gmail.com
 
