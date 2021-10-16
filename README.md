@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Luka_Petranovic
+- 👋 Hi, I’m @LukaPetranovic
 - 👀 I’m interested in software and web developing
 - 🌱 I’m currently learning C#, C++, DOTNet
 - 💞️ I’m looking to collaborate on some beginner based projects
